@@ -2,6 +2,8 @@
 
 This project is to test SAML configuration to be used with [Firebase/GCIP](https://console.cloud.google.com).
 
+[Video of the tool in action](https://www.loom.com/share/83d84a3a6ad14771a4b79ff174a8697d)
+
 ## Technical Details
 
 1. This project consists of a `Node` server and a `React` client. 
